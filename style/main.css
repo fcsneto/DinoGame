@@ -11,6 +11,7 @@ main{
     height: 100vh;
     padding: 5rem 0;
     overflow: auto;
+    background-color: #fafafa;
 }
 
 .canva{
