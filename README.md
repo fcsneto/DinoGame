@@ -1,3 +1,3 @@
 # DinoGame
  
- [Projeto jogavel](dinossaur.netlify.app)
+ [Projeto jogavel](https://dinossaur.netlify.app)
